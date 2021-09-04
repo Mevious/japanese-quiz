@@ -4,7 +4,7 @@ Minimalist Japanese Hiragana/Katakana/Kanji Quiz.
 
 ----
 
-This python-based quiz was written to quickly memorize the Hiragana/Katakana/Kanji needed to pass the JLPT examination. To run this quiz you will need to have a python environment on your computer. You can get this by downloading Anaconda3. 
+This python-based quiz was written to quickly memorize the Hiragana/Katakana/Kanji needed to pass the JLPT examination. To run this quiz you will need to have a python environment on your computer. You can get this by downloading Anaconda3. You need to make sure you have the packages listed in the requirements.txt. You should be then be able to open the program using the .bat file.
 
 Basic Features: 
 
