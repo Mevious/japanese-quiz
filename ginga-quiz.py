@@ -90,7 +90,7 @@ class Quiz(QtWidgets.QWidget):
         self.select.addItem('all-words-newest-100')
         for i in self.alphabet_name:
             self.select.addItem(i)
-        for i in self.vocab_name:
+        for i in self.missed_name:
             self.select.addItem(i)
         for i in self.vocab_name:
             temp = i + '-reversed'
@@ -150,11 +150,13 @@ class Quiz(QtWidgets.QWidget):
             writer.writerow(['english', 'kanji', 'meaning'])
             # placeholder row so that the quiz will load
             writer.writerow(['a', 'b', 'c'])
+            writer.writerow(['a', 'b', 'c'])
 
         with open(self.missed_words_reversed, 'w') as writeFile:
             writer = csv.writer(writeFile)
             writer.writerow(['english', 'kanji', 'meaning'])
             # placeholder row so that the quiz will load
+            writer.writerow(['a', 'b', 'c'])
             writer.writerow(['a', 'b', 'c'])
 
     def selectActivated(self, text):
