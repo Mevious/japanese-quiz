@@ -93,6 +93,8 @@ class Quiz(QtWidgets.QWidget):
         for i in self.missed_name:
             self.select.addItem(i)
         for i in self.vocab_name:
+            self.select.addItem(i)
+        for i in self.vocab_name:
             temp = i + '-reversed'
             self.select.addItem(temp)
         self.select.addItem('all-words-newest-100-reversed')
