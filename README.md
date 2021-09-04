@@ -22,3 +22,4 @@ Future Features:
 - All JLPT quizzes
 - Checkable box for reversed quizzes
 - Fix bugs associated with missed words
+- Auto downloading of required packages
