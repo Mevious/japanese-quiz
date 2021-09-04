@@ -13,6 +13,7 @@ Add your own quizzes to the vocab folder to have them automatically added to the
 ![](/readme-images/quizzes.png)
 
 Correct Words
+
 An answer is determined to be correct if the input matches a single definition or the entire definition.
 ![](/readme-images/correct.PNG)
 
