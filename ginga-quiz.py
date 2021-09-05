@@ -88,6 +88,12 @@ class Quiz(QtWidgets.QWidget):
 
         self.select = QtWidgets.QComboBox(self)
         self.select.addItem('all-words-newest-100')
+        self.select.addItem('all-words-newest-100-reversed')
+        for i in self.all_words_name:
+            self.select.addItem(i)
+        for i in self.all_words_name:
+            temp = i + '-reversed'
+            self.select.addItem(temp)
         for i in self.alphabet_name:
             self.select.addItem(i)
         for i in self.missed_name:
@@ -97,7 +103,6 @@ class Quiz(QtWidgets.QWidget):
         for i in self.vocab_name:
             temp = i + '-reversed'
             self.select.addItem(temp)
-        self.select.addItem('all-words-newest-100-reversed')
         self.select.setFont(QFont('Times', combox_box_fontsize))
         self.select.activated[str].connect(self.selectActivated)
         subLayout.addWidget(self.select, 0, 0)
@@ -169,14 +174,14 @@ class Quiz(QtWidgets.QWidget):
         if text == 'all-words' or text == 'all-words-reversed':
             if 'reversed' in text.split('-'):
                 self.reversed = True
-                self.english = _np.array(self.all_words[0][2][-100:])
-                self.japanese = _np.array(self.all_words[0][1][-100:])
-                self.meaning = _np.array(self.all_words[0][0][-100:])
+                self.english = _np.array(self.all_words[0][2])
+                self.japanese = _np.array(self.all_words[0][1])
+                self.meaning = _np.array(self.all_words[0][0])
                 self.missed_file = self.missed_words_reversed
             else:
-                self.english = _np.array(self.all_words[0][0][-100:])
-                self.japanese = _np.array(self.all_words[0][1][-100:])
-                self.meaning = _np.array(self.all_words[0][2][-100:])
+                self.english = _np.array(self.all_words[0][0])
+                self.japanese = _np.array(self.all_words[0][1])
+                self.meaning = _np.array(self.all_words[0][2])
                 self.missed_file = self.missed_words
 
         if text == 'all-words-newest-100' or text == 'all-words-newest-100-reversed':
@@ -187,9 +192,9 @@ class Quiz(QtWidgets.QWidget):
                 self.meaning = _np.array(self.all_words[0][0][-100:])
                 self.missed_file = self.missed_words_reversed
             else:
-                self.english = _np.array(self.vocab[0][0][-100:])
-                self.japanese = _np.array(self.vocab[0][1][-100:])
-                self.meaning = _np.array(self.vocab[0][2][-100:])
+                self.english = _np.array(self.all_words[0][0][-100:])
+                self.japanese = _np.array(self.all_words[0][1][-100:])
+                self.meaning = _np.array(self.all_words[0][2][-100:])
                 self.missed_file = self.missed_words
 
         for i in self.alphabet_name:
