@@ -39,10 +39,10 @@ tomodachi,ともだち,friend
 kazoku,かぞく,family
 otousan,おとうさん,father
 okaasan,おかあさん,mother
-oniisan,おにいさん,older brother
-otouto,おとうと,younger brother
-oneesan,おねえさん,older sister
-imouto,いもうと,younger sister
+oniisan,おにいさん,big bro
+otouto,おとうと,little bro
+oneesan,おねえさん,big sis
+imouto,いもうと,little sis
 
 kudamono,くだもの,fruit
 yasai,やさい,vegetable
@@ -79,7 +79,7 @@ juu,じゅう,10
 
 kisetsu,きせつ,seasons
 haru,はる,spring
-aki,あき,autumn
+aki,あき,autumn fall
 natsu,なつ,summer
 fuyu,ふゆ,winter
 kyou,きょう,today
