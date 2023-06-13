@@ -4,10 +4,10 @@ konnichiwa,こんいちわ,good day
 konbanwa,こんばんわ,good evening
 irasshaimase,いらっしゃいませ,welcome
 sayounara,さようなら,goodbye
-ja mata,じゃまた,see you later
-hajime mashite,はじめまして,nice to meet you (first time)
-yoroshiku onegaishimasu,よろしくおねがいします,nice to meet you / let's work together
-watashi wa,わたしわ,i am
+ja mata,じゃ また,see you later
+hajime mashite,はじめ まして,nice to meet you (first time)
+yoroshiku onegaishimasu,よろしく おねがいします,nice to meet you / let's work together
+watashi wa,わたし わ,i am
 
 apato,アパート,apartment
 depato,デパート,department store
@@ -63,20 +63,20 @@ kutsushita,くつした,socks
 kimono,きもの,kimono
 
 nomimasu,のみます,to drink
-mizu o nomimasu,みずをのみます,i drink water
+mizu o nomimasu,みず　を　のみます,i drink water
 nomimasen,のみません,to not drink
-mizu o nomimasen,,i don't drink water
+mizu o nomimasen,みず　を　のみません,i don't drink water
 nomimashita,のみました,drank
-mizu o nomimashita,,i have drunk water
-nomimasen deshita,のいませんでした,have not drunk
-mizu o nomimasen denshita,,i haven't drunk water
+mizu o nomimashita,みず　を　のみました,i have drunk water
+nomimasen deshita,のいません でした,have not drunk
+mizu o nomimasen denshita,みず　を　のみません　でんした,i haven't drunk water
 
 tabemasu,たべます,to eat
-sushi o tabemasu,,i eat sushi / i will eat sushi
-tabemasen,,to not eat
-tabemashita,,ate
-gohan o tabemashita,,i ate rice
-tabemasen deshita,,have not eaten
+sushi o tabemasu,すし　を　たべます,i eat sushi / i will eat sushi
+tabemasen,たべません,to not eat
+tabemashita,たべました,ate
+gohan o tabemashita,ごはん　を　たべました,i ate rice
+tabemasen deshita,たべません　でした,have not eaten
 
 ongaku,おんがく,music
 uta,うた,song
@@ -92,7 +92,7 @@ beddo,ベッド,bed
 sofaa,ソファー,sofa
 
 houki,ほうき,broom
-hashi,はし,chopsticks
+hashi (tabemasu),はし (たべます),chopsticks
 kagu,かぐ,furniture
 kagi,かぎ,key
 osara,おさら,plate
@@ -103,13 +103,13 @@ amerika,アメリカ,america
 oosutoraria,オーストラリア,australia
 indo,インド,india
 
-kanashii desu,かなしいです,i'm sad
-taikutsu desu,たいくつです,i'm bored
-ureshii desu,うれしいです,i'm happy
+kanashii desu,かなしい です,i'm sad
+taikutsu desu,たいくつ です,i'm bored
+ureshii desu,うれしい です,i'm happy
 
 tsukaimasu,つかいます,to use
 hashi o tsukaimasu,はし を つかいます,use chopsticks
 hanashimasu,はなします,to speak
-nihongo o hanashimasu,,speak japanese
+nihongo o hanashimasu,にほんご　を　はなします,speak japanese
 kikimasu,ききます,to listen
-ongaku o kikimasu,,listen to music
+ongaku o kikimasu,おんがく　を　ききます,listen to music
