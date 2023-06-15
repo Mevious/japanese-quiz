@@ -166,9 +166,9 @@ eakon,エアコン,air conditioner
 reizouko,れいぞうこ,refrigerator
 
 yomimasu,よみます,to read
-manga o yomimasu,,i read manga
-kakimasu,,to write
-tegami o kakimasu,,i write a letter
+manga o yomimasu,まんが　を　よみます,i read manga
+kakimasu,かきます,to write
+tegami o kakimasu,てがみ　を　かきます,i write a letter
 
 nihongo,にほんご,japanese language
 eigo,えいご,english language
@@ -179,9 +179,9 @@ furansugo,フランスご,french language
 ikimasu,いきます,to go
 nihon e ikimasu,にほん　へ　いきます,go to japan
 ikimasen,いきません,to not go
-nihon e ikimasen,,don't go to japan
-ikimashita,,went
-nihon e ikimashita,,i went to japan
-ikimasen deshita,,didn't go
-nihon e ikimasen deshita,,i didn't go to japan
+nihon e ikimasen,にほん　へ　いきません,don't go to japan
+ikimashita,いきました,went
+nihon e ikimashita,にほん　へ　いきました,i went to japan
+ikimasen deshita,いきません　でした,didn't go
+nihon e ikimasen deshita,にほん　へ　いきません　でした,i didn't go to japan
 
