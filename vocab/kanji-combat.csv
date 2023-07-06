@@ -27,8 +27,31 @@ hachi,八,eight 8
 kokonotsu,九つ,nine 9
 juu,十,ten 10
 
+ue,上,on above up over
+shita,下,under below bottom
+hidari,左,left
+migi,右,right
+#naka,中,in
+naka,中,in inside middle
+
+hyaku,ひゃく,one hundred 100
+hyaku,百,one hundred 100
+sen,千,thousand 1000
+hon,本,book volume
+bun,文,sentence composition text writings
+#ji,字,character
+ji,字,character letter village section
+
+chikara,力,power force strength
+ki,気,spirit mind heart
+nama,生,live raw uncooker fresh natural
+yasumi,休み,vacation rest recess
+tatsu,立つ,to stand rise
 
 
+
+
+# vocab lessons
 gakkou,学校,school
 kawa,川,river
 te,手,hand
@@ -57,7 +80,7 @@ iu,言う,to say
 
 
 
-
+# other vocab I just wanted to include
 megane,眼鏡,glasses
 baka,ばか,idiot moron fool
 aka,赤,red
