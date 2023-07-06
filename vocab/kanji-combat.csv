@@ -1,15 +1,18 @@
 kana,kanji,english
 
-
+# this is a comment
 mizu,水,water
 hi,火,fire flame blaze
 ki,木,tree shrub bush
 ishi,石,stone
 okane,お金,money
 
-hi,日(hi),day days sun
-tsuki,月(tsuki),moon month
-toshi,年(toshi),year age years
+#hi,日(hi),day days sun
+hi,日,day days sun
+#tsuki,月(tsuki),moon month
+tsuki,月,moon month
+#toshi,年(toshi),year age years
+toshi,年,year age years
 hayai,早い,early fast quick
 yuube,夕べ,evening
 
