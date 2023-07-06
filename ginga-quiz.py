@@ -53,7 +53,7 @@ class Quiz(QtWidgets.QWidget):
             if filename.endswith(".csv"):
                 name = filename.split('.')[0]
                 quiz_name.append(name)
-                lesson =  _pd.read_csv(str(directory + filename), skiprows=1, header=None)
+                lesson =  _pd.read_csv(str(directory + filename), skiprows=1, header=None, comment='#')
                 contents.append(lesson)
                 continue
             else:
@@ -61,7 +61,7 @@ class Quiz(QtWidgets.QWidget):
                     name = file.split('.')[0]
                     quiz_name.append(name)
                     lesson =  _pd.read_csv(str(directory + str(filename) + '/' + file),
-                                           skiprows=1, header=None)
+                                           skiprows=1, header=None, comment='#')
                     contents.append(lesson)
                     continue
 
