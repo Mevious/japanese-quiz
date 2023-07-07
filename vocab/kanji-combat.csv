@@ -1,6 +1,7 @@
 kana,kanji,english
 
 # this is a comment
+# lesson 1
 mizu,水,water
 hi,火,fire flame blaze
 ki,木,tree shrub bush
@@ -50,30 +51,39 @@ tatsu,立つ,to stand rise
 
 
 
-
-# vocab lessons
-gakkou,学校,school
+# future
 kawa,川,river
 te,手,hand
-ongaku,音楽,music
-ki,木,tree shrub bush
+
+
+
+
+# vocab lessons
+# vocab 1
+gakkou,学校,school
 daigaku,大学,university college
 ookii,大きい,big large great
 chiisai,小さい,small little tiny
 
+#vocab 2
 otona,大人,adult grown up
 otokonohito,男の人,man
 otokonoko,男の子,boy son baby boy
 onnanohito,女の人,woman
 onnanoko,女の子,girl daughter baby girl
 
+# vocab 3
 sensei,先生,teacher instructor
 akachan,赤ちゃん,baby infant
 
+# vocab 4
 natsuyasumi,夏休み,summer vacation holiday
 iu,言う,to say
 
-
+# vocab 5
+namae,名前,name
+mainichi,毎日,every day
+kyou,今日,today
 
 
 
@@ -81,6 +91,7 @@ iu,言う,to say
 
 
 # other vocab I just wanted to include
+ongaku,音楽,music
 megane,眼鏡,glasses
 baka,ばか,idiot moron fool
 aka,赤,red
@@ -88,3 +99,5 @@ hayashi,林,wood woods forest grove thicket
 mori,森,forest
 oniisan,お兄さん,older big brother
 oneesan,お姉さん,older big sister
+neko,猫,cat
+
