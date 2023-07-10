@@ -8,6 +8,7 @@ ki,木,tree shrub bush
 ishi,石,stone
 okane,お金,money
 
+# lesson 2
 #hi,日(hi),day days sun
 hi,日,day days sun
 #tsuki,月(tsuki),moon month
@@ -17,17 +18,21 @@ toshi,年,year age years
 hayai,早い,early fast quick
 yuube,夕べ,evening
 
+# lesson 3
 ichi,一,one 1
 ni,二,two 2
 san,三,three 3
 shi,四,four 4
 go,五,five 5
+
+# lesson 4
 roku,六,six 6
 shichi,七,seven 7
 hachi,八,eight 8
 kokonotsu,九つ,nine 9
 juu,十,ten 10
 
+# lesson 5
 ue,上,on above up over
 shita,下,under below bottom
 hidari,左,left
@@ -35,6 +40,7 @@ migi,右,right
 #naka,中,in
 naka,中,in inside middle
 
+# lesson 6
 hyaku,ひゃく,one hundred 100
 hyaku,百,one hundred 100
 sen,千,thousand 1000
@@ -43,12 +49,21 @@ bun,文,sentence composition text writings
 #ji,字,character
 ji,字,character letter village section
 
+# lesson 7
 chikara,力,power force strength
 ki,気,spirit mind heart
 nama,生,live raw uncooker fresh natural
 yasumi,休み,vacation rest recess
 tatsu,立つ,to stand rise
 
+# lesson 8
+#gakkou,学校,school
+gakushuu,学習,learning study
+gakumon,学問,study learning education discipline science
+gaku,学,learning study knowledge education
+sei,正,true regular original
+hairu,入る,to enter go into
+deguchi,出口,exit gateway way out
 
 
 # future
