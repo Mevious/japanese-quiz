@@ -65,10 +65,44 @@ sei,正,true regular original
 hairu,入る,to enter go into
 deguchi,出口,exit gateway way out
 
+# lesson 9
+hana,花,flower blossom petal
+kusa,草,grass weed herb
+ta,田,rice field
+ame,雨,rain
+sora,空,sky the air heavens
+
+# lesson 10
+ou,王,king
+takara,宝,treasure
+houseki,宝石,gem jewel precious stone
+en,円,yen
+# ookii,大きい,big large great
+# chiisai,小さい,small little tiny
+
+# lesson 11
+hito,人,person someeone
+na,名,name title
+onna,女,woman female
+otoko,男,man male
+ko,子,child
+inu,犬,dog
+
+# lesson 12
+me,目,eye eyeball
+mimi,耳,ear
+kuchi,口,mouth
+te,手,hand
+ashi,足,leg foot
+miru,見る,to see look
+
+
+
 
 # future
 kawa,川,river
-te,手,hand
+niku,肉,meat
+niwa,庭,garden
 
 
 
@@ -123,4 +157,7 @@ mori,森,forest
 oniisan,お兄さん,older big brother
 oneesan,お姉さん,older big sister
 neko,猫,cat
-
+hashi,橋,bridge
+isu,椅子,chair stool
+kami,紙,paper
+densha,電車,train
