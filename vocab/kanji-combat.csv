@@ -96,17 +96,23 @@ te,手,hand
 ashi,足,leg foot
 miru,見る,to see look
 
-
+# lesson 13
+hayashi,林,wood woods forest grove thicket
+mori,森,forest
+yama,山,mountain hill
+kawa,川,river
+tsuchi,土,earth soil dirt clay mud
+tenki,天気,weather
 
 
 # future
-kawa,川,river
 niku,肉,meat
 niwa,庭,garden
 ani,兄,bro
 tori,鳥,bird
 uma,馬,horse
 ushi,牛,cow bull ox
+yuki,雪,snow
 
 
 
@@ -162,8 +168,6 @@ ongaku,音楽,music
 megane,眼鏡,glasses
 baka,ばか,idiot moron fool
 aka,赤,red
-hayashi,林,wood woods forest grove thicket
-mori,森,forest
 oniisan,お兄さん,older big brother
 oneesan,お姉さん,older big sister
 neko,猫,cat
