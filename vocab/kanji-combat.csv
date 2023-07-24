@@ -104,6 +104,41 @@ kawa,川,river
 tsuchi,土,earth soil dirt clay mud
 tenki,天気,weather
 
+# lesson 14
+mura,村,village
+machi,町,town block neighborhood
+aka,赤,red
+ao,青,blue
+shiro,白,white
+massaki,真っ先,the head foremost beginning front
+
+# lesson 15
+go,語,word language speech
+hanashi,話,talk speech chat conversation
+gengo,言語,language
+hitokoto,一言,one word few brief comments
+koe,声,voice
+kotaeru,答える,to answer reply
+utae,答え,answer reply response
+kiku,聞く,to listen hear
+
+# lesson 16
+natsu,夏,summer
+aki,秋,fall autumn
+fuyu,冬,winter
+haru,春,spring
+yuki,雪,snow
+kumo,雲,cloud
+
+# lesson 17
+kuni,国,country
+engei,園芸,gardening
+kouen,公園,park
+hara,原,field plain prairie wilderness
+no,野,plain field wild
+tani,谷,valley
+chi,地,eath ground land soil place
+
 
 # future
 niku,肉,meat
@@ -112,8 +147,8 @@ ani,兄,bro
 tori,鳥,bird
 uma,馬,horse
 ushi,牛,cow bull ox
-yuki,雪,snow
-
+kuro,黒,black
+uta,歌,song singing
 
 
 
@@ -175,3 +210,7 @@ hashi,橋,bridge
 isu,椅子,chair stool
 kami,紙,paper
 densha,電車,train
+kissaten,喫茶店,cafe coffee shop
+bakushu,ばくしゅ,beer
+eibun,英文,english writing sentence text literature
+eigo,英語,english language
