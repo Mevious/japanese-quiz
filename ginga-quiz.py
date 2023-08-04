@@ -47,6 +47,7 @@ class Quiz(QtWidgets.QWidget):
 
         self.missed_words = "missed/missed-words.csv"
         self.missed_words_reversed = "missed/missed-words-reversed.csv"
+        self.missed_letters = "missed/missed-letters.csv"
 
     def _load_vocab(self, directory, contents, quiz_name):
         for filename in os.listdir(directory):
@@ -287,6 +288,11 @@ class Quiz(QtWidgets.QWidget):
             # you get the question wrong
             else:
                 self.question_status.setText('Incorrect, ' + str(self.japanese[1]) + ': ' + str(self.english[1]))
+                with open(self.missed_letters, 'a', encoding='utf-8') as csvfile:
+                    fieldnames = ['hiragana', 'character']
+                    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                    writer.writerow({'hiragana': str(self.english[1]), 'character': str(self.japanese[1])})
+
                 self.english, self.japanese = shuffle(self.english, self.japanese)
             # check how many are left
             if self.japanese.size == 1:
